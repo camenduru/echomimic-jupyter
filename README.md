@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/echomimic-jupyter/blob/main/echomimic2_jupyter.ipynb) | echomimic2_jupyter.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/echomimic-jupyter/blob/main/echomimic2_jupyter.ipynb) | echomimic2_jupyter.ipynb (~17GB Pro Colab 😭)
 
 ### 🧬 Code
 https://github.com/antgroup/echomimic_v2
