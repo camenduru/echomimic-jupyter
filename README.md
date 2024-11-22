@@ -18,6 +18,9 @@ https://arxiv.org/abs/2411.10061
 https://antgroup.github.io/ai/echomimic_v2/
 
 ### 🖼 Output
+![gandalf](https://github.com/user-attachments/assets/d511bb97-2bdf-4ed3-ab28-c8c8eb30e2a7)
+
+https://github.com/user-attachments/assets/f64e0384-5b95-4425-b2f4-7b55e5d6b5d7
 
 ### 🏢 Sponsor
 https://modelslab.com
